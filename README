@@ -10,3 +10,25 @@
 | [>] FOCUS    : Backend, Systems Architecture & Automation                  |
 | [>] LOCATION : Brazil                                                      |
 +----------------------------------------------------------------------------+
+==================================[ TECH STACK ]==============================
+
+ [Languages]       [Tools & Infra]          [Databases]
+  - Python          - Docker                 - PostgreSQL
+  - TypeScript      - Git / GitHub CI        - MySQL
+  - Go / C#         - Linux / Bash           - SQLite
+  - SQL             - Cloud (GCP / AWS)      
+
+=================================[ WHAT I DO ]================================
+
+  01. Architecture & APIs  : Scalable services, RESTful design, data pipelines.
+  02. Automation & Scripts : Process optimization, CI/CD, internal tooling.
+  03. Infrastructure       : Containerization, system monitoring, cloud ops.
+
+==================================[ CONNECT ]=================================
+
+  -> LinkedIn : https://www.linkedin.com/in/thiago-enrico-costa-cardoso/
+  -> Email    : thiagoeccardoso@outlook.com
+  -> Portfolio: https://teccdev.com.br/
++----------------------------------------------------------------------------+
+| EOF                                                                        |
++----------------------------------------------------------------------------+
